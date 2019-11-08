@@ -1,4 +1,6 @@
-Reusable React authentication portal that I built for my other React projects and for a [tutorial post I made on medium](https://medium.com/@jschriem/react-firebase-authentication-tutorial-b365984b877f) :sun_with_face:
+## Reusable React Authentication :sun_with_face:
+
+Reusable React authentication portal that I built for my other React projects and for a [tutorial post I made on medium](https://medium.com/@jschriem/react-firebase-authentication-tutorial-b365984b877f)
 
 In order to use this code yourself you'll have to create an app on [Firebase](https://firebase.google.com/). 
 
